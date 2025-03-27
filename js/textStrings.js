@@ -93,7 +93,8 @@ var textStrings_EN = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "Nós nos tornamos o que contemplamos." ,
+    "WBWWB"              : "Nós nos tornamos", 
+        "o que contemplamos." ,
     "WSOTATOTSU"         : "Nós moldamos nossas ferramentas e depois nossas ferramentas nos moldam." ,
     
     // (quote0003.png)
