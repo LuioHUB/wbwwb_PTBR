@@ -16,11 +16,11 @@ var textStrings_EN = {
     
     // Act 2
     "crazySquareAttacks"   : "QUADRADO LOUCO ATACA!"                                 ,
-    "justMissed"           : "ahhhh, voce perdeu a cena"                             ,
+    "justMissed"           : "ahhhh, você perdeu a cena"                             ,
     "somethingInteresting" : "(pegue ele fazendo *algo* interessante)"               ,
     "whoIsScreaming"       : "(você tem que pegar *quem* está gritando com ele)"     ,
     "circleFearsSquares"   : "CIRCULOS TEM MEDO DE QUADRADOS"                        ,
-    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
+    "whoScaresThem"        : "(você tem que pegar por *quem* ele está assustado)"         ,
     "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
     "squaresSnubCircles"   : "QUADRADOS DESREIPETAM CIRCULOS"                        ,
     "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
