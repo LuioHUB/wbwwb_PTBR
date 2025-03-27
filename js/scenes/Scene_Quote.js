@@ -22,7 +22,7 @@ function Scene_Quote(){
     var q2Sprite = MakeSprite("quote0002");
     q2.addChild(q2Sprite);
     
-    var q2TitleText = new PIXI.Text(textStrings["WBWWB"], {font:"65px Times", fill:"#FFFFFF", align:"center"});
+    var q2TitleText = new PIXI.Text(textStrings["WBWWB"], {font:"24px Times", fill:"#FFFFFF", align:"center"});
     q2TitleText.anchor.x = 0.5;
     q2TitleText.anchor.y = 0.5;
     q2TitleText.x = Game.width / 2 + 6;
