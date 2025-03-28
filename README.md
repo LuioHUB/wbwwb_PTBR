@@ -1,3 +1,4 @@
+# BRAZILIAN-PORTUGUESE FAN TRANSLATION FOR WE BECOME WHAT WE BEHOLD
 ![banner](https://i.imgur.com/f6FcrhT.png)
 
 *a game about news cycles, vicious cycles, infinite cycles*
